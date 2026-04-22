@@ -32,9 +32,9 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
-- [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard/tree/main)
+- [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
 - [Project 3: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
-- [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/tree/main)
+- [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 
 ## [Project 1: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
 
@@ -42,7 +42,7 @@ This project showcases a complete data analysis workflow in Excel, covering data
 
 <img width="1123" height="651" alt="Dashboard" src="https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/assets/Dashboard.png" />
 
-## [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard/tree/main)
+## [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
 
 This project features an end to end analysis of global COVID-19 data using SQL for exploratory analysis and Tableau for visualization. By processing over 85,000 records, the project identifies key trends in infection rates, mortality, and vaccination rollouts across geographic regions. 
 
@@ -52,7 +52,7 @@ This project features an end to end analysis of global COVID-19 data using SQL f
 
 A data cleaning project using Microsoft SQL Server to standardize 56,000+ rows of Nashville Housing data. It demonstrates advanced T-SQL techniques (including self-joins, string parsing, and CTEs) to transform messy, unformatted records into a structured dataset ready for analysis.
 
-## [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/tree/main)
+## [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 
 This project performs a comprehensive Pearson Correlation Analysis on a movie industry dataset to identify which factors, such as budget and user votes, have the strongest impact on a film's gross revenue . The analysis includes data cleaning, categorical encoding, and visualization using heatmaps and regression plots.
 
