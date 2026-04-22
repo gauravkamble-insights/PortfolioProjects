@@ -12,6 +12,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/jupyter_notebooks-ff7143.svg?style=for-the-badge&logo=Jupyter-Notebooks&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2345818e.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
