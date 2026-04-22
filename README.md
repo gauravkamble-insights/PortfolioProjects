@@ -18,10 +18,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%23674ea7.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23531414.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-0458ac?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-8080cc?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Tableau Public](https://img.shields.io/badge/Tableau_Public-3d85c6?style=for-the-badge&logo=tableau-public&logoColor=white)
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
