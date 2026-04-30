@@ -33,10 +33,10 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 ## Table of Contents
 
 - [Project 1: US Macroeconomic Analysis using FRED-API](https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API)
-- [Project 2: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
+- [Project 2: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 - [Project 3: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
 - [Project 4: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
-- [Project 5: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
+- [Project 5: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
 
 
 ## [Project 1: US Macroeconomic Analysis using FRED-API](https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API)  
@@ -45,12 +45,11 @@ Analysis of the US macroeconomic landscape from 2021 to 2025 utilizing FRED data
 
 <img width="2087" height="884" alt="Inflation, CPI, Unemployment" src="https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API/blob/main/assets/Inflation%2C%20CPI%2C%20Unemployment.png" />
 
+## [Project 2: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 
-## [Project 2: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
+This project performs a comprehensive Pearson Correlation Analysis on a movie industry dataset to identify which factors, such as budget and user votes, have the strongest impact on a film's gross revenue . The analysis includes data cleaning, categorical encoding, and visualization using heatmaps and regression plots.
 
-This project showcases a complete data analysis workflow in Excel, covering data cleaning, transformation, and the design of an interactive dashboard. It analyzes how customer demographics like income, age, and commute habits influence bike sales. The final dashboard uses pivot tables and slicers to provide dynamic, visual business insights.
-
-<img width="1123" height="651" alt="Dashboard" src="https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/assets/Dashboard.png" />
+<img width="917" height="703" alt="correlation matrix" src="https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/assets/correlation%20matrix.png" /> 
 
 ## [Project 3: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
 
@@ -60,13 +59,13 @@ This project features an end to end analysis of global COVID-19 data using SQL f
 
 ## [Project 4: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
 
-A data cleaning project using Microsoft SQL Server to standardize 56,000+ rows of Nashville Housing data. It demonstrates advanced T-SQL techniques (including self-joins, string parsing, and CTEs) to transform messy, unformatted records into a structured dataset ready for analysis.
+A data cleaning project using Microsoft SQL Server to standardize 56,000+ rows of Nashville Housing data. It demonstrates advanced T-SQL techniques (including self-joins, string parsing, and CTEs) to transform messy, unformatted records into a structured dataset ready for analysis. 
 
-## [Project 5: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
+## [Project 5: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
 
-This project performs a comprehensive Pearson Correlation Analysis on a movie industry dataset to identify which factors, such as budget and user votes, have the strongest impact on a film's gross revenue . The analysis includes data cleaning, categorical encoding, and visualization using heatmaps and regression plots.
+This project showcases a complete data analysis workflow in Excel, covering data cleaning, transformation, and the design of an interactive dashboard. It analyzes how customer demographics like income, age, and commute habits influence bike sales. The final dashboard uses pivot tables and slicers to provide dynamic, visual business insights.
 
-<img width="917" height="703" alt="correlation matrix" src="https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/assets/correlation%20matrix.png" />  
+<img width="1123" height="651" alt="Dashboard" src="https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/assets/Dashboard.png" />
 
 ## Contact Information
 
