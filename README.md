@@ -9,6 +9,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Kaggle](https://img.shields.io/badge/kaggle-%23318CE7.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -31,28 +32,37 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-- [Project 1: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
-- [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
-- [Project 3: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
-- [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
+- [Project 1: US Macroeconomic Analysis using FRED-API](https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API)
+- [Project 2: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
+- [Project 3: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
+- [Project 4: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
+- [Project 5: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 
-## [Project 1: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
+
+## [Project 1: US Macroeconomic Analysis using FRED-API](https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API)  
+  
+Analysis of the US macroeconomic landscape from 2021 to 2025 utilizing FRED data to investigate inflation trends, Federal Reserve monetary policy, and labor market resilience. The study employs statistical techniques including OLS regression and ARIMA forecasting, along with machine learning through XGBoost, to assess structural impacts and policy responses of the post-COVID era.
+
+<img width="2087" height="884" alt="Inflation, CPI, Unemployment" src="https://github.com/gauravkamble-insights/US-Macroeconomic-Analysis-using-FRED-API/blob/main/assets/Inflation%2C%20CPI%2C%20Unemployment.png" />
+
+
+## [Project 2: Bike Sales Dashboard Project on Excel](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel)
 
 This project showcases a complete data analysis workflow in Excel, covering data cleaning, transformation, and the design of an interactive dashboard. It analyzes how customer demographics like income, age, and commute habits influence bike sales. The final dashboard uses pivot tables and slicers to provide dynamic, visual business insights.
 
 <img width="1123" height="651" alt="Dashboard" src="https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/assets/Dashboard.png" />
 
-## [Project 2: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
+## [Project 3: Global COVID-19 Data Exploration and Dashboard Visualization](https://github.com/gauravkamble-insights/COVID-Data-Exploration-Dashboard)
 
 This project features an end to end analysis of global COVID-19 data using SQL for exploratory analysis and Tableau for visualization. By processing over 85,000 records, the project identifies key trends in infection rates, mortality, and vaccination rollouts across geographic regions. 
 
 <img width="1919" height="1126" alt="Dashboard" src="https://github.com/user-attachments/assets/edf1b545-f3ae-4b0a-8f77-be1e546a63cf" />
 
-## [Project 3: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
+## [Project 4: Nashville Housing Data Cleaning](https://github.com/gauravkamble-insights/Nashville-Housing-Data-Cleaning)
 
 A data cleaning project using Microsoft SQL Server to standardize 56,000+ rows of Nashville Housing data. It demonstrates advanced T-SQL techniques (including self-joins, string parsing, and CTEs) to transform messy, unformatted records into a structured dataset ready for analysis.
 
-## [Project 4: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
+## [Project 5: Movie Correlation Analysis in Python](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python)
 
 This project performs a comprehensive Pearson Correlation Analysis on a movie industry dataset to identify which factors, such as budget and user votes, have the strongest impact on a film's gross revenue . The analysis includes data cleaning, categorical encoding, and visualization using heatmaps and regression plots.
 
@@ -67,7 +77,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
   
 
 ## Author
-- <b>©2026 Gaurav Kamble.  
+- <b>©2026 Gaurav Kamble. All rights reserved.  
 - <b>[LinkedIn](https://www.linkedin.com/in/gaurav-kamble/)</b>
 - <b>[Tableau Public](https://public.tableau.com/app/profile/datagaurav/vizzes)</b>
 - <b>[Kaggle](https://www.kaggle.com/justgk)</b>
